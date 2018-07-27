@@ -1,0 +1,4 @@
+com\osman\scs\config\SpringWebConfig.class
+com\osman\scs\config\DispatcherServletInitializer.class
+com\osman\scs\config\SpringRootConfig.class
+com\osman\scs\controller\MainController.class
